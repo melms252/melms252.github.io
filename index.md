@@ -1,3 +1,11 @@
+# Mason Elms
+## MS in Mechanical Engineering, concentration Robotics and Mechatronic Systems
+## BS in Mechanical Engineering
+
+
+### About Me!
+Hey there! My name is Mason, I graduated from the University of Pennsylvania with a Bachelor's of Science in Mechanical Engineering in May 2020 and with a Master's of Science in Mechanical Engineering in May 2021. I've specialized in robotics and mechatronics, with a focus on the design and analysis of flight vehicles. I enjoy a cerebral challenge, whether it be 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/melms252/melms252.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
